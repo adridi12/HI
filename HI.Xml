@@ -1,1207 +1,1483 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-stylesheet type="text/xsl" href="HI.xsl"?>
-
-
-<web>
-    <Ano_2021>
-        <trimestres>
-            <Primer_Trimestre>
-                <Clientes>
-
-<Cliente id="C-120">
-
-<Informacion>
-<Nombre>Adrian</Nombre><Apellidos>DominguezSanchez</Apellidos><Telefono>683274280</Telefono>
-<Direccion>CalledelOlmo/Nº7/Griñon</Direccion>
-<Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica>
-<Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-    <pedido id="Pe-1">
-
-<Fecha_De_Compra>10/1/2021</Fecha_De_Compra><Fecha_De_Entrega>16/1/2021</Fecha_De_Entrega>
-<Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-    <Producto id="P-1089">
-        <Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia>
-        <Precio>150</Precio><Cantidad>1</Cantidad>
-    </Producto>
-</Productos>
-
-    </pedido>
-
-<pedido id="Pe-2">
-<Fecha_De_Compra>20/1/2021</Fecha_De_Compra><Fecha_De_Entrega>22/1/2021</Fecha_De_Entrega><Precio_Total>130</Precio_Total><Total_Factura>130</Total_Factura>
-<Productos>
-<Producto id="P-108">
-<Nombre>AirforceOnemid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-
-
-</Cliente>
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>CalledelAbeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedido id="Pe-3">
-<Fecha_De_Compra>23/1/2021</Fecha_De_Compra><Fecha_De_Entrega>29/1/2021</Fecha_De_Entrega><Precio_Total>45</Precio_Total><Total_Factura>49</Total_Factura>
-
-<Productos>
-<Producto id="P-19">
-<Nombre>McKenziechándalEssentialFleece2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-4">
-<Fecha_De_Compra>1/2/2021</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>100</Precio_Total><Total_Factura>100</Total_Factura>
-
-<Productos>
-<Producto id="P-10899">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-5">
-<Fecha_De_Compra>18/3/2021</Fecha_De_Compra><Fecha_De_Entrega>20/3/2021</Fecha_De_Entrega><Precio_Total>35</Precio_Total><Total_Factura>39</Total_Factura>
-
-<Productos>
-<Producto id="P-1039">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-</Pedidos>
-</Cliente>
-
-
-<Cliente id="C-109480">
-
-<Informacion>
-<Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>CalledelPino/Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedido id="Pe-6">
-<Fecha_De_Compra>22/3/2021</Fecha_De_Compra><Fecha_De_Entrega>23/2/2021</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-1089">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-7">
-<Fecha_De_Compra>3/3/2021</Fecha_De_Compra><Fecha_De_Entrega>3/3/2021</Fecha_De_Entrega><Precio_Total>110</Precio_Total><Total_Factura>110</Total_Factura>
-
-<Productos>
-<Productoid="P-2045">
-<Nombre>adidasOriginalsZX750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>CalledelPino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-8">
-<Fecha_De_Compra>1/2/2019</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>90</Precio_Total><Total_Factura>90</Total_Factura>
-
-<Productos>
-<Productoid="P-93993">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-9">
-<Fecha_De_Compra>8/2/2021</Fecha_De_Compra><Fecha_De_Entrega>17/2/2021</Fecha_De_Entrega><Precio_Total>70</Precio_Total><Total_Factura>70</Total_Factura>
-
-<Productos>
-<Productoid="P-24215">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>2</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-10">
-<Fecha_De_Compra>9/3/2021</Fecha_De_Compra><Fecha_De_Entrega>18/2/2021</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-4866">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-</Clientes>
-
-</Primer_Trimestre>
-
-
-
-
-<Segundo_Trimestre>
-<Clientes>
-
-
-<Clienteid="C-120">
-
-<Informacion>
-<Nombre>Adrian</Nombre><Apellidos>DominguezSanchez</Apellidos><Telefono>683274280</Telefono><Direccion>CalledelOlmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-<pedidoid="Pe-1">
-<Fecha_De_Compra>10/4/2021</Fecha_De_Compra><Fecha_De_Entrega>16/1/2021</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-<Productos>
-<Productoid="P-51954">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-2">
-<Fecha_De_Compra>20/5/2021</Fecha_De_Compra><Fecha_De_Entrega>22/1/2021</Fecha_De_Entrega><Precio_Total>130</Precio_Total><Total_Factura>130</Total_Factura>
-<Productos>
-<Productoid="P-108">
-<Nombre>AirforceOnemid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>CalledelAbeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-3">
-<Fecha_De_Compra>23/5/2021</Fecha_De_Compra><Fecha_De_Entrega>29/1/2021</Fecha_De_Entrega><Precio_Total>45</Precio_Total><Total_Factura>49</Total_Factura>
-
-<Productos>
-<Productoid="P-54">
-<Nombre>McKenziechándalEssentialFleece2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-4">
-<Fecha_De_Compra>1/6/2021</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>100</Precio_Total><Total_Factura>100</Total_Factura>
-
-<Productos>
-<Productoid="P-1089">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-5">
-<Fecha_De_Compra>18/6/2021</Fecha_De_Compra><Fecha_De_Entrega>20/3/2021</Fecha_De_Entrega><Precio_Total>35</Precio_Total><Total_Factura>39</Total_Factura>
-
-<Productos>
-<Productoid="P-1089">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-</Pedidos>
-</Cliente>
-
-
-<Clienteid="C-109480">
-
-<Informacion>
-<Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>CalledelPino/Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-6">
-<Fecha_De_Compra>22/4/2021</Fecha_De_Compra><Fecha_De_Entrega>23/2/2021</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-1089">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-7">
-<Fecha_De_Compra>3/5/2021</Fecha_De_Compra><Fecha_De_Entrega>3/3/2021</Fecha_De_Entrega><Precio_Total>110</Precio_Total><Total_Factura>110</Total_Factura>
-
-<Productos>
-<Productoid="P-1089">
-<Nombre>adidasOriginalsZX750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>CalledelPino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-8">
-<Fecha_De_Compra>1/4/2021</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>90</Precio_Total><Total_Factura>90</Total_Factura>
-
-<Productos>
-<Productoid="P-1089">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-9">
-<Fecha_De_Compra>8/4/2021</Fecha_De_Compra><Fecha_De_Entrega>17/2/2021</Fecha_De_Entrega><Precio_Total>70</Precio_Total><Total_Factura>70</Total_Factura>
-
-<Productos>
-<Productoid="P-1089">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>2</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-10">
-<Fecha_De_Compra>9/5/2021</Fecha_De_Compra><Fecha_De_Entrega>18/2/2021</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-1089">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-</Clientes>
-</Segundo_Trimestre>
-
-
-
-
-<Tecer_Trimestre>
-<Clientes>
-<Clienteid="C-120">
-
-<Informacion>
-<Nombre>Adrian</Nombre><Apellidos>DominguezSanchez</Apellidos><Telefono>683274280</Telefono><Direccion>CalledelOlmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-<pedidoid="Pe-1">
-<Fecha_De_Compra>10/7/2021</Fecha_De_Compra><Fecha_De_Entrega>16/1/2021</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-<Productos>
-<Productoid="P-1089">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-2">
-<Fecha_De_Compra>20/7/2021</Fecha_De_Compra><Fecha_De_Entrega>22/1/2021</Fecha_De_Entrega><Precio_Total>130</Precio_Total><Total_Factura>130</Total_Factura>
-<Productos>
-<Productoid="P-108">
-<Nombre>AirforceOnemid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>CalledelAbeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-3">
-<Fecha_De_Compra>23/7/2021</Fecha_De_Compra><Fecha_De_Entrega>29/1/2021</Fecha_De_Entrega><Precio_Total>45</Precio_Total><Total_Factura>49</Total_Factura>
-
-<Productos>
-<Productoid="P-1089">
-<Nombre>McKenziechándalEssentialFleece2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-4">
-<Fecha_De_Compra>1/8/2021</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>100</Precio_Total><Total_Factura>100</Total_Factura>
-
-<Productos>
-<Productoid="P-3615">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-5">
-<Fecha_De_Compra>18/9/2021</Fecha_De_Compra><Fecha_De_Entrega>20/3/2021</Fecha_De_Entrega><Precio_Total>35</Precio_Total><Total_Factura>39</Total_Factura>
-
-<Productos>
-<Productoid="P-1651658">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-</Pedidos>
-</Cliente>
-
-
-<Clienteid="C-109480">
-
-<Informacion>
-<Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>CalledelPino/Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-6">
-<Fecha_De_Compra>22/7/2021</Fecha_De_Compra><Fecha_De_Entrega>23/2/2021</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-65451">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe7">
-<Fecha_De_Compra>3/8/2021</Fecha_De_Compra><Fecha_De_Entrega>3/3/2021</Fecha_De_Entrega><Precio_Total>110</Precio_Total><Total_Factura>110</Total_Factura>
-
-<Productos>
-<Productoid="P-1984948">
-<Nombre>adidasOriginalsZX750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>CalledelPino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-8">
-<Fecha_De_Compra>1/9/2021</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>90</Precio_Total><Total_Factura>90</Total_Factura>
-
-<Productos>
-<Productoid="P-6521368">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-9">
-<Fecha_De_Compra>8/7/2021</Fecha_De_Compra><Fecha_De_Entrega>17/2/2021</Fecha_De_Entrega><Precio_Total>70</Precio_Total><Total_Factura>70</Total_Factura>
-
-<Productos>
-<Productoid="P-9874335">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>2</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-10">
-<Fecha_De_Compra>9/9/2021</Fecha_De_Compra><Fecha_De_Entrega>18/2/2021</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-65194">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-</Clientes>
-</Tecer_Trimestre>
-
-
-<Cuarto_Trimestre>
-<Clientes>
-<Clienteid="C-120">
-
-<Informacion>
-<Nombre>Adrian</Nombre><Apellidos>DominguezSanchez</Apellidos><Telefono>683274280</Telefono><Direccion>CalledelOlmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-<pedidoid="Pe-1">
-<Fecha_De_Compra>10/1/2021</Fecha_De_Compra><Fecha_De_Entrega>16/1/2021</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-<Productos>
-<Productoid="P-6519">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-2">
-<Fecha_De_Compra>20/1/2021</Fecha_De_Compra><Fecha_De_Entrega>22/1/2021</Fecha_De_Entrega><Precio_Total>130</Precio_Total><Total_Factura>130</Total_Factura>
-<Productos>
-<Productoid="P-651981">
-<Nombre>AirforceOnemid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>CalledelAbeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-3">
-<Fecha_De_Compra>23/1/2021</Fecha_De_Compra><Fecha_De_Entrega>29/1/2021</Fecha_De_Entrega><Precio_Total>45</Precio_Total><Total_Factura>49</Total_Factura>
-
-<Productos>
-<Productoid="P-1089">
-<Nombre>McKenziechándalEssentialFleece2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-4">
-<Fecha_De_Compra>1/2/2021</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>100</Precio_Total><Total_Factura>100</Total_Factura>
-
-<Productos>
-<Productoid="P-2159491">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-5">
-<Fecha_De_Compra>18/3/2021</Fecha_De_Compra><Fecha_De_Entrega>20/3/2021</Fecha_De_Entrega><Precio_Total>35</Precio_Total><Total_Factura>39</Total_Factura>
-
-<Productos>
-<Productoid="P-5489741">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-</Pedidos>
-</Cliente>
-
-
-<Clienteid="C-109480">
-
-<Informacion>
-<Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>CalledelPino/Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-6">
-<Fecha_De_Compra>22/3/2021</Fecha_De_Compra><Fecha_De_Entrega>23/2/2021</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-651894">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-7">
-<Fecha_De_Compra>3/3/2021</Fecha_De_Compra><Fecha_De_Entrega>3/3/2021</Fecha_De_Entrega><Precio_Total>110</Precio_Total><Total_Factura>110</Total_Factura>
-
-<Productos>
-<Productoid="P-847157">
-<Nombre>adidasOriginalsZX750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>CalledelPino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-8">
-<Fecha_De_Compra>1/2/2019</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>90</Precio_Total><Total_Factura>90</Total_Factura>
-
-<Productos>
-<Productoid="P-15691">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-9">
-<Fecha_De_Compra>8/2/2021</Fecha_De_Compra><Fecha_De_Entrega>17/2/2021</Fecha_De_Entrega><Precio_Total>70</Precio_Total><Total_Factura>70</Total_Factura>
-
-<Productos>
-<Productoid="P-51915">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>2</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-10">
-<Fecha_De_Compra>9/3/2021</Fecha_De_Compra><Fecha_De_Entrega>18/2/2021</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-2216516">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-</Clientes>
-</Cuarto_Trimestre>
-</trimestres>
-</Ano_2021>
-<Ano_2022>
-<trimestres>
-<Primer_Trimestre>
-<Clientes>
-<Clienteid="C-120">
-<Informacion>
-<Nombre>Adrian</Nombre><Apellidos>DominguezSanchez</Apellidos><Telefono>683274280</Telefono><Direccion>CalledelOlmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
-</Informacion>
-<Pedidos>
-<pedidoid="Pe-1">
-<Fecha_De_Compra>10/1/2022</Fecha_De_Compra><Fecha_De_Entrega>16/1/2022</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-<Productos>
-<Productoid="P-21412">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-<pedidoid="Pe-2">
-<Fecha_De_Compra>20/1/2022</Fecha_De_Compra><Fecha_De_Entrega>22/1/2022</Fecha_De_Entrega><Precio_Total>130</Precio_Total><Total_Factura>130</Total_Factura>
-<Productos>
-<Productoid="P-10">
-<Nombre>AirforceOnemid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>CalledelAbeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-3">
-<Fecha_De_Compra>23/1/2022</Fecha_De_Compra><Fecha_De_Entrega>29/1/2022</Fecha_De_Entrega><Precio_Total>45</Precio_Total><Total_Factura>49</Total_Factura>
-
-<Productos>
-<Productoid="P-108921591">
-<Nombre>McKenziechándalEssentialFleece2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-4">
-<Fecha_De_Compra>1/2/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>100</Precio_Total><Total_Factura>100</Total_Factura>
-
-<Productos>
-<Productoid="P-1089141">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-5">
-<Fecha_De_Compra>18/3/2022</Fecha_De_Compra><Fecha_De_Entrega>20/3/2022</Fecha_De_Entrega><Precio_Total>35</Precio_Total><Total_Factura>39</Total_Factura>
-
-<Productos>
-<Productoid="P-19154">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-</Pedidos>
-</Cliente>
-
-
-<Clienteid="C-109480">
-
-<Informacion>
-<Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>CalledelPino/Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-6">
-<Fecha_De_Compra>22/3/2022</Fecha_De_Compra><Fecha_De_Entrega>23/2/2022</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-1089258">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-7">
-<Fecha_De_Compra>3/3/2022</Fecha_De_Compra><Fecha_De_Entrega>3/3/2022</Fecha_De_Entrega><Precio_Total>110</Precio_Total><Total_Factura>110</Total_Factura>
-
-<Productos>
-<Productoid="P-10615989">
-<Nombre>adidasOriginalsZX750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>CalledelPino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-8">
-<Fecha_De_Compra>1/2/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>90</Precio_Total><Total_Factura>90</Total_Factura>
-
-<Productos>
-<Productoid="P-1951791">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-9">
-<Fecha_De_Compra>8/2/2022</Fecha_De_Compra><Fecha_De_Entrega>17/2/2022</Fecha_De_Entrega><Precio_Total>70</Precio_Total><Total_Factura>70</Total_Factura>
-
-<Productos>
-<Productoid="P-932466">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>2</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-10">
-<Fecha_De_Compra>9/3/2022</Fecha_De_Compra><Fecha_De_Entrega>18/2/2022</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-814521">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-</Clientes>
-</Primer_Trimestre>
-
-
-<Segundo_Trimestre>
-<Clientes>
-<Clienteid="C-120">
-
-<Informacion>
-<Nombre>Adrian</Nombre><Apellidos>DominguezSanchez</Apellidos><Telefono>683274280</Telefono><Direccion>CalledelOlmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-<pedidoid="Pe-1">
-<Fecha_De_Compra>10/4/2022</Fecha_De_Compra><Fecha_De_Entrega>16/1/2022</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-<Productos>
-<Productoid="P-79156">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-2">
-<Fecha_De_Compra>20/5/2022</Fecha_De_Compra><Fecha_De_Entrega>22/1/2022</Fecha_De_Entrega><Precio_Total>130</Precio_Total><Total_Factura>130</Total_Factura>
-<Productos>
-<Productoid="P-83315">
-<Nombre>AirforceOnemid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>CalledelAbeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-3">
-<Fecha_De_Compra>23/5/2022</Fecha_De_Compra><Fecha_De_Entrega>29/1/2022</Fecha_De_Entrega><Precio_Total>45</Precio_Total><Total_Factura>49</Total_Factura>
-
-<Productos>
-<Productoid="P-625143">
-<Nombre>McKenziechándalEssentialFleece2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-4">
-<Fecha_De_Compra>1/6/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>100</Precio_Total><Total_Factura>100</Total_Factura>
-
-<Productos>
-<Productoid="P-145236">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-5">
-<Fecha_De_Compra>18/6/2022</Fecha_De_Compra><Fecha_De_Entrega>20/3/2022</Fecha_De_Entrega><Precio_Total>35</Precio_Total><Total_Factura>39</Total_Factura>
-
-<Productos>
-<Productoid="P-789513">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-</Pedidos>
-</Cliente>
-
-
-<Clienteid="C-109480">
-
-<Informacion>
-<Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>CalledelPino/Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-6">
-<Fecha_De_Compra>22/4/2022</Fecha_De_Compra><Fecha_De_Entrega>23/2/2022</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-745392">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="P-7">
-<Fecha_De_Compra>3/5/2022</Fecha_De_Compra><Fecha_De_Entrega>3/3/2022</Fecha_De_Entrega><Precio_Total>110</Precio_Total><Total_Factura>110</Total_Factura>
-
-<Productos>
-<Productoid="P-74512656">
-<Nombre>adidasOriginalsZX750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>CalledelPino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-8">
-<Fecha_De_Compra>1/4/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>90</Precio_Total><Total_Factura>90</Total_Factura>
-
-<Productos>
-<Productoid="P-795235">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-9">
-<Fecha_De_Compra>8/4/2022</Fecha_De_Compra><Fecha_De_Entrega>17/2/2022</Fecha_De_Entrega><Precio_Total>70</Precio_Total><Total_Factura>70</Total_Factura>
-
-<Productos>
-<Productoid="P-4521915">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>2</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-10">
-<Fecha_De_Compra>9/5/2022</Fecha_De_Compra><Fecha_De_Entrega>18/2/2022</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-7456236">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-</Clientes>
-</Segundo_Trimestre>
-
-
-
-
-<Tecer_Trimestre>
-<Clientes>
-<Clienteid="C-120">
-
-<Informacion>
-<Nombre>Adrian</Nombre><Apellidos>DominguezSanchez</Apellidos><Telefono>683274280</Telefono><Direccion>CalledelOlmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-<pedidoid="Pe-1">
-<Fecha_De_Compra>10/7/2022</Fecha_De_Compra><Fecha_De_Entrega>16/1/2022</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-<Productos>
-<Productoid="P-756315">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-2">
-<Fecha_De_Compra>20/7/2022</Fecha_De_Compra><Fecha_De_Entrega>22/1/2022</Fecha_De_Entrega><Precio_Total>130</Precio_Total><Total_Factura>130</Total_Factura>
-<Productos>
-<Productoid="P-456259">
-<Nombre>AirforceOnemid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>CalledelAbeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-3">
-<Fecha_De_Compra>23/7/2022</Fecha_De_Compra><Fecha_De_Entrega>29/1/2022</Fecha_De_Entrega><Precio_Total>45</Precio_Total><Total_Factura>49</Total_Factura>
-
-<Productos>
-<Productoid="P-7895266">
-<Nombre>McKenziechándalEssentialFleece2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-4">
-<Fecha_De_Compra>1/8/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>100</Precio_Total><Total_Factura>100</Total_Factura>
-
-<Productos>
-<Productoid="P-78952651">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="P-5">
-<Fecha_De_Compra>18/9/2022</Fecha_De_Compra><Fecha_De_Entrega>20/3/2022</Fecha_De_Entrega><Precio_Total>35</Precio_Total><Total_Factura>39</Total_Factura>
-
-<Productos>
-<Productoid="P-45625361">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-</Pedidos>
-</Cliente>
-
-
-<Clienteid="C-109480">
-
-<Informacion>
-<Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>CalledelPino/Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-6">
-<Fecha_De_Compra>22/7/2022</Fecha_De_Compra><Fecha_De_Entrega>23/2/2022</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-4815265488">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-7">
-<Fecha_De_Compra>3/8/2022</Fecha_De_Compra><Fecha_De_Entrega>3/3/2022</Fecha_De_Entrega><Precio_Total>110</Precio_Total><Total_Factura>110</Total_Factura>
-
-<Productos>
-<Productoid="P-7896215">
-<Nombre>adidasOriginalsZX750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>CalledelPino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-8">
-<Fecha_De_Compra>1/9/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>90</Precio_Total><Total_Factura>90</Total_Factura>
-
-<Productos>
-<Productoid="P-1089">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-9">
-<Fecha_De_Compra>8/7/2022</Fecha_De_Compra><Fecha_De_Entrega>17/2/2022</Fecha_De_Entrega><Precio_Total>70</Precio_Total><Total_Factura>70</Total_Factura>
-
-<Productos>
-<Productoid="P-1089">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>2</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-10">
-<Fecha_De_Compra>9/9/2022</Fecha_De_Compra><Fecha_De_Entrega>18/2/2022</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-1089">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-</Clientes>
-</Tecer_Trimestre>
-
-
-<Cuarto_Trimestre>
-<Clientes>
-<Clienteid="C-120">
-
-<Informacion>
-<Nombre>Adrian</Nombre><Apellidos>DominguezSanchez</Apellidos><Telefono>683274280</Telefono><Direccion>CalledelOlmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-<pedidoid="Pe-1">
-<Fecha_De_Compra>10/1/2022</Fecha_De_Compra><Fecha_De_Entrega>16/1/2022</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-<Productos>
-<Productoid="P-1089">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-2">
-<Fecha_De_Compra>20/1/2022</Fecha_De_Compra><Fecha_De_Entrega>22/1/2022</Fecha_De_Entrega><Precio_Total>130</Precio_Total><Total_Factura>130</Total_Factura>
-<Productos>
-<Productoid="P-108">
-<Nombre>AirforceOnemid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>CalledelAbeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-3">
-<Fecha_De_Compra>23/1/2022</Fecha_De_Compra><Fecha_De_Entrega>29/1/2022</Fecha_De_Entrega><Precio_Total>45</Precio_Total><Total_Factura>49</Total_Factura>
-
-<Productos>
-<Productoid="P-411551651">
-<Nombre>McKenziechándalEssentialFleece2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-4">
-<Fecha_De_Compra>1/2/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>100</Precio_Total><Total_Factura>100</Total_Factura>
-
-<Productos>
-<Productoid="P-1219945">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-5">
-<Fecha_De_Compra>18/3/2022</Fecha_De_Compra><Fecha_De_Entrega>20/3/2022</Fecha_De_Entrega><Precio_Total>35</Precio_Total><Total_Factura>39</Total_Factura>
-
-<Productos>
-<Productoid="P-22515">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-</Pedidos>
-</Cliente>
-
-
-<Clienteid="C-109480">
-
-<Informacion>
-<Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>CalledelPino/Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-6">
-<Fecha_De_Compra>22/3/2022</Fecha_De_Compra><Fecha_De_Entrega>23/2/2022</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-441561">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-7">
-<Fecha_De_Compra>3/3/2022</Fecha_De_Compra><Fecha_De_Entrega>3/3/2022</Fecha_De_Entrega><Precio_Total>110</Precio_Total><Total_Factura>110</Total_Factura>
-
-<Productos>
-<Productoid="P-756213">
-<Nombre>adidasOriginalsZX750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-
-
-<Clienteid="C-30067">
-
-<Informacion>
-<Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>CalledelPino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
-</Informacion>
-
-<Pedidos>
-
-<pedidoid="Pe-8">
-<Fecha_De_Compra>1/2/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>90</Precio_Total><Total_Factura>90</Total_Factura>
-
-<Productos>
-<Productoid="P-456254821">
-<Nombre>adidasOriginalsHandballSpezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe
--9">
-<Fecha_De_Compra>8/2/2022</Fecha_De_Compra><Fecha_De_Entrega>17/2/2022</Fecha_De_Entrega><Precio_Total>70</Precio_Total><Total_Factura>70</Total_Factura>
-
-<Productos>
-<Productoid="P-44618">
-<Nombre>NikecamisetaSwoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35</Precio><Cantidad>2</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-<pedidoid="Pe-10">
-<Fecha_De_Compra>9/3/2022</Fecha_De_Compra><Fecha_De_Entrega>18/2/2022</Fecha_De_Entrega><Precio_Total>150</Precio_Total><Total_Factura>150</Total_Factura>
-
-<Productos>
-<Productoid="P-562581">
-<Nombre>AirforceOne</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150</Precio><Cantidad>1</Cantidad>
-</Producto>
-</Productos>
-</pedido>
-
-</Pedidos>
-</Cliente>
-</Clientes>
-</Cuarto_Trimestre>
-</trimestres>
-</Ano_2022>
-</web>
-
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+
+<jd_sports>
+<Año_2021>
+    <trimestres>
+        <Primer_Trimestre>
+
+            <Clientes>
+                <Cliente id="C-120">
+
+                    <Informacion>
+                        <Nombre>Adrian</Nombre><Apellidos>Dominguez Sanchez</Apellidos><Telefono>683274280</Telefono><Direccion>Calle del Olmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+                    <pedido id="Pe-1"> 
+                        <Fecha_De_Compra>10/1/2021</Fecha_De_Compra><Fecha_De_Entrega>16/1/2021</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+                         <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>Airforce One</Nombre><Referencia> 1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                    </pedido>
+
+                    <pedido id="Pe-2"> 
+                        <Fecha_De_Compra>20/1/2021</Fecha_De_Compra><Fecha_De_Entrega>22/1/2021</Fecha_De_Entrega><Precio_Total>130€</Precio_Total><Total_Factura>130€</Total_Factura>
+                        <Productos>
+                            <Producto id="P-108">
+                                <Nombre>Airforce One mid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130€</Precio><Cantidad>1</Cantidad>
+                            </Producto>
+                        </Productos>
+                    </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>Calle del Abeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-3"> 
+                            <Fecha_De_Compra>23/1/2021</Fecha_De_Compra><Fecha_De_Entrega>29/1/2021</Fecha_De_Entrega><Precio_Total>45€</Precio_Total><Total_Factura>49€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-19">
+                                    <Nombre>McKenzie chándal Essential Fleece 2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-4"> 
+                            <Fecha_De_Compra>1/2/2021</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>100€</Precio_Total><Total_Factura>100€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-10899">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                        <pedido id="Pe-5"> 
+                            <Fecha_De_Compra>18/3/2021</Fecha_De_Compra><Fecha_De_Entrega>20/3/2021</Fecha_De_Entrega><Precio_Total>35€</Precio_Total><Total_Factura>39€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-1039">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-109480">
+
+                    <Informacion>
+                        <Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>Calle del Pino /Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-6"> 
+                            <Fecha_De_Compra>22/3/2021</Fecha_De_Compra><Fecha_De_Entrega>23/2/2021</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-7"> 
+                            <Fecha_De_Compra>3/3/2021</Fecha_De_Compra><Fecha_De_Entrega>3/3/2021</Fecha_De_Entrega><Precio_Total>110€</Precio_Total><Total_Factura>110€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-2045">
+                                    <Nombre>adidas Originals ZX 750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>Calle del Pino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                       <pedido id="Pe-8"> 
+                            <Fecha_De_Compra>1/2/2019</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>90€</Precio_Total><Total_Factura>90€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-93993">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-9"> 
+                            <Fecha_De_Compra>8/2/2021</Fecha_De_Compra><Fecha_De_Entrega>17/2/2021</Fecha_De_Entrega><Precio_Total>70€</Precio_Total><Total_Factura>70€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-24215">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>2</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-10"> 
+                            <Fecha_De_Compra>9/3/2021</Fecha_De_Compra><Fecha_De_Entrega>18/2/2021</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-4866">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                    </Pedidos>
+                </Cliente>
+            </Clientes>
+        </Primer_Trimestre>
+            <Clientes>
+                <Cliente id="C-120">
+
+                    <Informacion>
+                        <Nombre>Adrian</Nombre><Apellidos>Dominguez Sanchez</Apellidos><Telefono>683274280</Telefono><Direccion>Calle del Olmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+                    <pedido id="Pe-1"> 
+                        <Fecha_De_Compra>10/1/2021</Fecha_De_Compra><Fecha_De_Entrega>16/1/2021</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+                         <Productos>
+                                <Producto id="P-5634">
+                                    <Nombre>Airforce One</Nombre><Referencia> 1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                    </pedido>
+
+                    <pedido id="Pe-2"> 
+                        <Fecha_De_Compra>20/1/2021</Fecha_De_Compra><Fecha_De_Entrega>22/1/2021</Fecha_De_Entrega><Precio_Total>130€</Precio_Total><Total_Factura>130€</Total_Factura>
+                        <Productos>
+                            <Producto id="P-551785">
+                                <Nombre>Airforce One mid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130€</Precio><Cantidad>1</Cantidad>
+                            </Producto>
+                        </Productos>
+                    </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>Calle del Abeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-3"> 
+                            <Fecha_De_Compra>23/1/2021</Fecha_De_Compra><Fecha_De_Entrega>29/1/2021</Fecha_De_Entrega><Precio_Total>45€</Precio_Total><Total_Factura>49€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-5218">
+                                    <Nombre>McKenzie chándal Essential Fleece 2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-4"> 
+                            <Fecha_De_Compra>1/2/2021</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>100€</Precio_Total><Total_Factura>100€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                        <pedido id="Pe-5"> 
+                            <Fecha_De_Compra>18/3/2021</Fecha_De_Compra><Fecha_De_Entrega>20/3/2021</Fecha_De_Entrega><Precio_Total>35€</Precio_Total><Total_Factura>39€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-3942">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-109480">
+
+                    <Informacion>
+                        <Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>Calle del Pino /Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-6"> 
+                            <Fecha_De_Compra>22/3/2021</Fecha_De_Compra><Fecha_De_Entrega>23/2/2021</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-46225">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-7"> 
+                            <Fecha_De_Compra>3/3/2021</Fecha_De_Compra><Fecha_De_Entrega>3/3/2021</Fecha_De_Entrega><Precio_Total>110€</Precio_Total><Total_Factura>110€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="Pe-7935">
+                                    <Nombre>adidas Originals ZX 750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>Calle del Pino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                       <pedido id="Pe-8"> 
+                            <Fecha_De_Compra>1/2/2019</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>90€</Precio_Total><Total_Factura>90€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-8756">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-9"> 
+                            <Fecha_De_Compra>8/2/2021</Fecha_De_Compra><Fecha_De_Entrega>17/2/2021</Fecha_De_Entrega><Precio_Total>70€</Precio_Total><Total_Factura>70€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-8236">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>2</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-10"> 
+                            <Fecha_De_Compra>9/3/2021</Fecha_De_Compra><Fecha_De_Entrega>18/2/2021</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-18562">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                    </Pedidos>
+                </Cliente>
+            </Clientes>
+
+        <Segundo_Trimestre>
+            <Clientes>
+                <Cliente id="C-120">
+
+                    <Informacion>
+                        <Nombre>Adrian</Nombre><Apellidos>Dominguez Sanchez</Apellidos><Telefono>683274280</Telefono><Direccion>Calle del Olmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+                    <pedido id="Pe-1"> 
+                        <Fecha_De_Compra>10/4/2021</Fecha_De_Compra><Fecha_De_Entrega>16/1/2021</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+                         <Productos>
+                                <Producto id="P-51954">
+                                    <Nombre>Airforce One</Nombre><Referencia> 1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                    </pedido>
+
+                    <pedido id="Pe-2"> 
+                        <Fecha_De_Compra>20/5/2021</Fecha_De_Compra><Fecha_De_Entrega>22/1/2021</Fecha_De_Entrega><Precio_Total>130€</Precio_Total><Total_Factura>130€</Total_Factura>
+                        <Productos>
+                            <Producto id="P-108">
+                                <Nombre>Airforce One mid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130€</Precio><Cantidad>1</Cantidad>
+                            </Producto>
+                        </Productos>
+                    </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>Calle del Abeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-3"> 
+                            <Fecha_De_Compra>23/5/2021</Fecha_De_Compra><Fecha_De_Entrega>29/1/2021</Fecha_De_Entrega><Precio_Total>45€</Precio_Total><Total_Factura>49€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-54">
+                                    <Nombre>McKenzie chándal Essential Fleece 2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-4"> 
+                            <Fecha_De_Compra>1/6/2021</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>100€</Precio_Total><Total_Factura>100€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                        <pedido id="Pe-5"> 
+                            <Fecha_De_Compra>18/6/2021</Fecha_De_Compra><Fecha_De_Entrega>20/3/2021</Fecha_De_Entrega><Precio_Total>35€</Precio_Total><Total_Factura>39€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-109480">
+
+                    <Informacion>
+                        <Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>Calle del Pino /Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-6"> 
+                            <Fecha_De_Compra>22/4/2021</Fecha_De_Compra><Fecha_De_Entrega>23/2/2021</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-7"> 
+                            <Fecha_De_Compra>3/5/2021</Fecha_De_Compra><Fecha_De_Entrega>3/3/2021</Fecha_De_Entrega><Precio_Total>110€</Precio_Total><Total_Factura>110€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>adidas Originals ZX 750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>Calle del Pino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                       <pedido id="Pe-8"> 
+                            <Fecha_De_Compra>1/4/2021</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>90€</Precio_Total><Total_Factura>90€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-9"> 
+                            <Fecha_De_Compra>8/4/2021</Fecha_De_Compra><Fecha_De_Entrega>17/2/2021</Fecha_De_Entrega><Precio_Total>70€</Precio_Total><Total_Factura>70€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>2</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-10"> 
+                            <Fecha_De_Compra>9/5/2021</Fecha_De_Compra><Fecha_De_Entrega>18/2/2021</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                    </Pedidos>
+                </Cliente>
+            </Clientes>
+        </Segundo_Trimestre>
+
+
+
+
+        <Tecer_Trimestre>
+            <Clientes>
+                <Cliente id="C-120">
+
+                    <Informacion>
+                        <Nombre>Adrian</Nombre><Apellidos>Dominguez Sanchez</Apellidos><Telefono>683274280</Telefono><Direccion>Calle del Olmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+                    <pedido id="Pe-1"> 
+                        <Fecha_De_Compra>10/7/2021</Fecha_De_Compra><Fecha_De_Entrega>16/1/2021</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+                         <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>Airforce One</Nombre><Referencia> 1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                    </pedido>
+
+                    <pedido id="Pe-2"> 
+                        <Fecha_De_Compra>20/7/2021</Fecha_De_Compra><Fecha_De_Entrega>22/1/2021</Fecha_De_Entrega><Precio_Total>130€</Precio_Total><Total_Factura>130€</Total_Factura>
+                        <Productos>
+                            <Producto id="P-108">
+                                <Nombre>Airforce One mid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130€</Precio><Cantidad>1</Cantidad>
+                            </Producto>
+                        </Productos>
+                    </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>Calle del Abeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-3"> 
+                            <Fecha_De_Compra>23/7/2021</Fecha_De_Compra><Fecha_De_Entrega>29/1/2021</Fecha_De_Entrega><Precio_Total>45€</Precio_Total><Total_Factura>49€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>McKenzie chándal Essential Fleece 2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-4"> 
+                            <Fecha_De_Compra>1/8/2021</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>100€</Precio_Total><Total_Factura>100€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-3615">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                        <pedido id="Pe-5"> 
+                            <Fecha_De_Compra>18/9/2021</Fecha_De_Compra><Fecha_De_Entrega>20/3/2021</Fecha_De_Entrega><Precio_Total>35€</Precio_Total><Total_Factura>39€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-1651658">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-109480">
+
+                    <Informacion>
+                        <Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>Calle del Pino /Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-6"> 
+                            <Fecha_De_Compra>22/7/2021</Fecha_De_Compra><Fecha_De_Entrega>23/2/2021</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-65451">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe7"> 
+                            <Fecha_De_Compra>3/8/2021</Fecha_De_Compra><Fecha_De_Entrega>3/3/2021</Fecha_De_Entrega><Precio_Total>110€</Precio_Total><Total_Factura>110€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-1984948">
+                                    <Nombre>adidas Originals ZX 750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>Calle del Pino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                       <pedido id="Pe-8"> 
+                            <Fecha_De_Compra>1/9/2021</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>90€</Precio_Total><Total_Factura>90€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-6521368">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-9"> 
+                            <Fecha_De_Compra>8/7/2021</Fecha_De_Compra><Fecha_De_Entrega>17/2/2021</Fecha_De_Entrega><Precio_Total>70€</Precio_Total><Total_Factura>70€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-9874335">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>2</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-10"> 
+                            <Fecha_De_Compra>9/9/2021</Fecha_De_Compra><Fecha_De_Entrega>18/2/2021</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-65194">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                    </Pedidos>
+                </Cliente>
+            </Clientes>
+        </Tecer_Trimestre>
+
+
+        <Cuarto_Trimestre>
+            <Clientes>
+                <Cliente id="C-120">
+
+                    <Informacion>
+                        <Nombre>Adrian</Nombre><Apellidos>Dominguez Sanchez</Apellidos><Telefono>683274280</Telefono><Direccion>Calle del Olmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+                    <pedido id="Pe-1"> 
+                        <Fecha_De_Compra>10/1/2021</Fecha_De_Compra><Fecha_De_Entrega>16/1/2021</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+                         <Productos>
+                                <Producto id="P-6519">
+                                    <Nombre>Airforce One</Nombre><Referencia> 1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                    </pedido>
+
+                    <pedido id="Pe-2"> 
+                        <Fecha_De_Compra>20/1/2021</Fecha_De_Compra><Fecha_De_Entrega>22/1/2021</Fecha_De_Entrega><Precio_Total>130€</Precio_Total><Total_Factura>130€</Total_Factura>
+                        <Productos>
+                            <Producto id="P-651981">
+                                <Nombre>Airforce One mid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130€</Precio><Cantidad>1</Cantidad>
+                            </Producto>
+                        </Productos>
+                    </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>Calle del Abeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-3"> 
+                            <Fecha_De_Compra>23/1/2021</Fecha_De_Compra><Fecha_De_Entrega>29/1/2021</Fecha_De_Entrega><Precio_Total>45€</Precio_Total><Total_Factura>49€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>McKenzie chándal Essential Fleece 2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-4"> 
+                            <Fecha_De_Compra>1/2/2021</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>100€</Precio_Total><Total_Factura>100€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-2159491">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                        <pedido id="Pe-5"> 
+                            <Fecha_De_Compra>18/3/2021</Fecha_De_Compra><Fecha_De_Entrega>20/3/2021</Fecha_De_Entrega><Precio_Total>35€</Precio_Total><Total_Factura>39€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-5489741">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-109480">
+
+                    <Informacion>
+                        <Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>Calle del Pino /Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-6"> 
+                            <Fecha_De_Compra>22/3/2021</Fecha_De_Compra><Fecha_De_Entrega>23/2/2021</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-651894">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-7"> 
+                            <Fecha_De_Compra>3/3/2021</Fecha_De_Compra><Fecha_De_Entrega>3/3/2021</Fecha_De_Entrega><Precio_Total>110€</Precio_Total><Total_Factura>110€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-847157">
+                                    <Nombre>adidas Originals ZX 750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>Calle del Pino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                       <pedido id="Pe-8"> 
+                            <Fecha_De_Compra>1/2/2019</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>90€</Precio_Total><Total_Factura>90€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-15691">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-9"> 
+                            <Fecha_De_Compra>8/2/2021</Fecha_De_Compra><Fecha_De_Entrega>17/2/2021</Fecha_De_Entrega><Precio_Total>70€</Precio_Total><Total_Factura>70€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-51915">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>2</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-10"> 
+                            <Fecha_De_Compra>9/3/2021</Fecha_De_Compra><Fecha_De_Entrega>18/2/2021</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-2216516">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                    </Pedidos>
+                </Cliente>
+            </Clientes>
+        </Cuarto_Trimestre>
+    </trimestres>
+</Año_2021>
+
+
+
+
+
+
+<Año_2022>
+
+    <trimestres>
+        <Primer_Trimestre>
+
+            <Clientes>
+                <Cliente id="C-120">
+
+                    <Informacion>
+                        <Nombre>Adrian</Nombre><Apellidos>Dominguez Sanchez</Apellidos><Telefono>683274280</Telefono><Direccion>Calle del Olmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+                    <pedido id="Pe-1"> 
+                        <Fecha_De_Compra>10/1/2022</Fecha_De_Compra><Fecha_De_Entrega>16/1/2022</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+                         <Productos>
+                                <Producto id="P-21412">
+                                    <Nombre>Airforce One</Nombre><Referencia> 1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                    </pedido>
+
+                    <pedido id="Pe-2"> 
+                        <Fecha_De_Compra>20/1/2022</Fecha_De_Compra><Fecha_De_Entrega>22/1/2022</Fecha_De_Entrega><Precio_Total>130€</Precio_Total><Total_Factura>130€</Total_Factura>
+                        <Productos>
+                            <Producto id="P-10">
+                                <Nombre>Airforce One mid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130€</Precio><Cantidad>1</Cantidad>
+                            </Producto>
+                        </Productos>
+                    </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>Calle del Abeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-3"> 
+                            <Fecha_De_Compra>23/1/2022</Fecha_De_Compra><Fecha_De_Entrega>29/1/2022</Fecha_De_Entrega><Precio_Total>45€</Precio_Total><Total_Factura>49€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-108921591">
+                                    <Nombre>McKenzie chándal Essential Fleece 2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-4"> 
+                            <Fecha_De_Compra>1/2/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>100€</Precio_Total><Total_Factura>100€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-1089141">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                        <pedido id="Pe-5"> 
+                            <Fecha_De_Compra>18/3/2022</Fecha_De_Compra><Fecha_De_Entrega>20/3/2022</Fecha_De_Entrega><Precio_Total>35€</Precio_Total><Total_Factura>39€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-19154">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-109480">
+
+                    <Informacion>
+                        <Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>Calle del Pino /Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-6"> 
+                            <Fecha_De_Compra>22/3/2022</Fecha_De_Compra><Fecha_De_Entrega>23/2/2022</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-1089258">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-7"> 
+                            <Fecha_De_Compra>3/3/2022</Fecha_De_Compra><Fecha_De_Entrega>3/3/2022</Fecha_De_Entrega><Precio_Total>110€</Precio_Total><Total_Factura>110€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-10615989">
+                                    <Nombre>adidas Originals ZX 750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>Calle del Pino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                       <pedido id="Pe-8"> 
+                            <Fecha_De_Compra>1/2/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>90€</Precio_Total><Total_Factura>90€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-1951791">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-9"> 
+                            <Fecha_De_Compra>8/2/2022</Fecha_De_Compra><Fecha_De_Entrega>17/2/2022</Fecha_De_Entrega><Precio_Total>70€</Precio_Total><Total_Factura>70€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-932466">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>2</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-10"> 
+                            <Fecha_De_Compra>9/3/2022</Fecha_De_Compra><Fecha_De_Entrega>18/2/2022</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-814521">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                    </Pedidos>
+                </Cliente>
+            </Clientes>
+        </Primer_Trimestre>
+            <Clientes>
+                <Cliente id="C-120">
+
+                    <Informacion>
+                        <Nombre>Adrian</Nombre><Apellidos>Dominguez Sanchez</Apellidos><Telefono>683274280</Telefono><Direccion>Calle del Olmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+                    <pedido id="Pe-1"> 
+                        <Fecha_De_Compra>10/1/2022</Fecha_De_Compra><Fecha_De_Entrega>16/1/2022</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+                         <Productos>
+                                <Producto id="P-95281781">
+                                    <Nombre>Airforce One</Nombre><Referencia> 1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                    </pedido>
+
+                    <pedido id="Pe-2"> 
+                        <Fecha_De_Compra>20/1/2022</Fecha_De_Compra><Fecha_De_Entrega>22/1/2022</Fecha_De_Entrega><Precio_Total>130€</Precio_Total><Total_Factura>130€</Total_Factura>
+                        <Productos>
+                            <Producto id="P-108">
+                                <Nombre>Airforce One mid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130€</Precio><Cantidad>1</Cantidad>
+                            </Producto>
+                        </Productos>
+                    </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>Calle del Abeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-3"> 
+                            <Fecha_De_Compra>23/1/2022</Fecha_De_Compra><Fecha_De_Entrega>29/1/2022</Fecha_De_Entrega><Precio_Total>45€</Precio_Total><Total_Factura>49€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-1331981">
+                                    <Nombre>McKenzie chándal Essential Fleece 2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-4"> 
+                            <Fecha_De_Compra>1/2/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>100€</Precio_Total><Total_Factura>100€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-1915518">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                        <pedido id="Pe-5"> 
+                            <Fecha_De_Compra>18/3/2022</Fecha_De_Compra><Fecha_De_Entrega>20/3/2022</Fecha_De_Entrega><Precio_Total>35€</Precio_Total><Total_Factura>39€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-11816158">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-109480">
+
+                    <Informacion>
+                        <Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>Calle del Pino /Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-6"> 
+                            <Fecha_De_Compra>22/3/2022</Fecha_De_Compra><Fecha_De_Entrega>23/2/2022</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-515218">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-7"> 
+                            <Fecha_De_Compra>3/3/2022</Fecha_De_Compra><Fecha_De_Entrega>3/3/2022</Fecha_De_Entrega><Precio_Total>110€</Precio_Total><Total_Factura>110€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-18154515">
+                                    <Nombre>adidas Originals ZX 750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>Calle del Pino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                       <pedido id="Pe-8"> 
+                            <Fecha_De_Compra>1/2/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2021</Fecha_De_Entrega><Precio_Total>90€</Precio_Total><Total_Factura>90€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-1523365">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-9"> 
+                            <Fecha_De_Compra>8/2/2022</Fecha_De_Compra><Fecha_De_Entrega>17/2/2022</Fecha_De_Entrega><Precio_Total>70€</Precio_Total><Total_Factura>70€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-795215">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>2</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="P-10"> 
+                            <Fecha_De_Compra>9/3/2022</Fecha_De_Compra><Fecha_De_Entrega>18/2/2022</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-74163529">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                    </Pedidos>
+                </Cliente>
+            </Clientes>
+
+        <Segundo_Trimestre>
+            <Clientes>
+                <Cliente id="C-120">
+
+                    <Informacion>
+                        <Nombre>Adrian</Nombre><Apellidos>Dominguez Sanchez</Apellidos><Telefono>683274280</Telefono><Direccion>Calle del Olmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+                    <pedido id="Pe-1"> 
+                        <Fecha_De_Compra>10/4/2022</Fecha_De_Compra><Fecha_De_Entrega>16/1/2022</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+                         <Productos>
+                                <Producto id="P-79156">
+                                    <Nombre>Airforce One</Nombre><Referencia> 1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                    </pedido>
+
+                    <pedido id="Pe-2"> 
+                        <Fecha_De_Compra>20/5/2022</Fecha_De_Compra><Fecha_De_Entrega>22/1/2022</Fecha_De_Entrega><Precio_Total>130€</Precio_Total><Total_Factura>130€</Total_Factura>
+                        <Productos>
+                            <Producto id="P-83315">
+                                <Nombre>Airforce One mid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130€</Precio><Cantidad>1</Cantidad>
+                            </Producto>
+                        </Productos>
+                    </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>Calle del Abeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-3"> 
+                            <Fecha_De_Compra>23/5/2022</Fecha_De_Compra><Fecha_De_Entrega>29/1/2022</Fecha_De_Entrega><Precio_Total>45€</Precio_Total><Total_Factura>49€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-625143">
+                                    <Nombre>McKenzie chándal Essential Fleece 2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-4"> 
+                            <Fecha_De_Compra>1/6/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>100€</Precio_Total><Total_Factura>100€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-145236">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                        <pedido id="Pe-5"> 
+                            <Fecha_De_Compra>18/6/2022</Fecha_De_Compra><Fecha_De_Entrega>20/3/2022</Fecha_De_Entrega><Precio_Total>35€</Precio_Total><Total_Factura>39€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-789513">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-109480">
+
+                    <Informacion>
+                        <Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>Calle del Pino /Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-6"> 
+                            <Fecha_De_Compra>22/4/2022</Fecha_De_Compra><Fecha_De_Entrega>23/2/2022</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-745392">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="P-7"> 
+                            <Fecha_De_Compra>3/5/2022</Fecha_De_Compra><Fecha_De_Entrega>3/3/2022</Fecha_De_Entrega><Precio_Total>110€</Precio_Total><Total_Factura>110€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-74512656">
+                                    <Nombre>adidas Originals ZX 750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>Calle del Pino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                       <pedido id="Pe-8"> 
+                            <Fecha_De_Compra>1/4/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>90€</Precio_Total><Total_Factura>90€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-795235">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-9"> 
+                            <Fecha_De_Compra>8/4/2022</Fecha_De_Compra><Fecha_De_Entrega>17/2/2022</Fecha_De_Entrega><Precio_Total>70€</Precio_Total><Total_Factura>70€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-4521915">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>2</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-10"> 
+                            <Fecha_De_Compra>9/5/2022</Fecha_De_Compra><Fecha_De_Entrega>18/2/2022</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-7456236">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                    </Pedidos>
+                </Cliente>
+            </Clientes>
+        </Segundo_Trimestre>
+
+
+
+
+        <Tecer_Trimestre>
+            <Clientes>
+                <Cliente id="C-120">
+
+                    <Informacion>
+                        <Nombre>Adrian</Nombre><Apellidos>Dominguez Sanchez</Apellidos><Telefono>683274280</Telefono><Direccion>Calle del Olmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+                    <pedido id="Pe-1"> 
+                        <Fecha_De_Compra>10/7/2022</Fecha_De_Compra><Fecha_De_Entrega>16/1/2022</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+                         <Productos>
+                                <Producto id="P-756315">
+                                    <Nombre>Airforce One</Nombre><Referencia> 1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                    </pedido>
+
+                    <pedido id="Pe-2"> 
+                        <Fecha_De_Compra>20/7/2022</Fecha_De_Compra><Fecha_De_Entrega>22/1/2022</Fecha_De_Entrega><Precio_Total>130€</Precio_Total><Total_Factura>130€</Total_Factura>
+                        <Productos>
+                            <Producto id="P-456259">
+                                <Nombre>Airforce One mid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130€</Precio><Cantidad>1</Cantidad>
+                            </Producto>
+                        </Productos>
+                    </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>Calle del Abeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-3"> 
+                            <Fecha_De_Compra>23/7/2022</Fecha_De_Compra><Fecha_De_Entrega>29/1/2022</Fecha_De_Entrega><Precio_Total>45€</Precio_Total><Total_Factura>49€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-7895266">
+                                    <Nombre>McKenzie chándal Essential Fleece 2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-4"> 
+                            <Fecha_De_Compra>1/8/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>100€</Precio_Total><Total_Factura>100€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-78952651">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                        <pedido id="P-5"> 
+                            <Fecha_De_Compra>18/9/2022</Fecha_De_Compra><Fecha_De_Entrega>20/3/2022</Fecha_De_Entrega><Precio_Total>35€</Precio_Total><Total_Factura>39€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-45625361">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-109480">
+
+                    <Informacion>
+                        <Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>Calle del Pino /Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-6"> 
+                            <Fecha_De_Compra>22/7/2022</Fecha_De_Compra><Fecha_De_Entrega>23/2/2022</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-4815265488">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-7"> 
+                            <Fecha_De_Compra>3/8/2022</Fecha_De_Compra><Fecha_De_Entrega>3/3/2022</Fecha_De_Entrega><Precio_Total>110€</Precio_Total><Total_Factura>110€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-7896215">
+                                    <Nombre>adidas Originals ZX 750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>Calle del Pino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                       <pedido id="Pe-8"> 
+                            <Fecha_De_Compra>1/9/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>90€</Precio_Total><Total_Factura>90€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-9"> 
+                            <Fecha_De_Compra>8/7/2022</Fecha_De_Compra><Fecha_De_Entrega>17/2/2022</Fecha_De_Entrega><Precio_Total>70€</Precio_Total><Total_Factura>70€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>2</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-10"> 
+                            <Fecha_De_Compra>9/9/2022</Fecha_De_Compra><Fecha_De_Entrega>18/2/2022</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                    </Pedidos>
+                </Cliente>
+            </Clientes>
+        </Tecer_Trimestre>
+
+
+        <Cuarto_Trimestre>
+            <Clientes>
+                <Cliente id="C-120">
+
+                    <Informacion>
+                        <Nombre>Adrian</Nombre><Apellidos>Dominguez Sanchez</Apellidos><Telefono>683274280</Telefono><Direccion>Calle del Olmo/Nº7/Griñon</Direccion><Correo_Electronica>adriandominguez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>10/12/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+                    <pedido id="Pe-1"> 
+                        <Fecha_De_Compra>10/1/2022</Fecha_De_Compra><Fecha_De_Entrega>16/1/2022</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+                         <Productos>
+                                <Producto id="P-1089">
+                                    <Nombre>Airforce One</Nombre><Referencia> 1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                    </pedido>
+
+                    <pedido id="Pe-2"> 
+                        <Fecha_De_Compra>20/1/2022</Fecha_De_Compra><Fecha_De_Entrega>22/1/2022</Fecha_De_Entrega><Precio_Total>130€</Precio_Total><Total_Factura>130€</Total_Factura>
+                        <Productos>
+                            <Producto id="P-108">
+                                <Nombre>Airforce One mid</Nombre><Referencia>048686_jdsportses/048686</Referencia><Precio>130€</Precio><Cantidad>1</Cantidad>
+                            </Producto>
+                        </Productos>
+                    </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Raul</Nombre><Apellidos>Suarez</Apellidos><Telefono>626174210</Telefono><Direccion>Calle del Abeto/Nº67/Fuenlabrada</Direccion><Correo_Electronica>raulsuarez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/5/2015</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-3"> 
+                            <Fecha_De_Compra>23/1/2022</Fecha_De_Compra><Fecha_De_Entrega>29/1/2022</Fecha_De_Entrega><Precio_Total>45€</Precio_Total><Total_Factura>49€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-411551651">
+                                    <Nombre>McKenzie chándal Essential Fleece 2</Nombre><Referencia>16555393_jdsportses/560965</Referencia><Precio>45€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-4"> 
+                            <Fecha_De_Compra>1/2/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>100€</Precio_Total><Total_Factura>100€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-1219945">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>100€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                        <pedido id="Pe-5"> 
+                            <Fecha_De_Compra>18/3/2022</Fecha_De_Compra><Fecha_De_Entrega>20/3/2022</Fecha_De_Entrega><Precio_Total>35€</Precio_Total><Total_Factura>39€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-22515">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-109480">
+
+                    <Informacion>
+                        <Nombre>Reny</Nombre><Apellidos>Machado</Apellidos><Telefono>6834348954</Telefono><Direccion>Calle del Pino /Nº2/Fuenlabrada</Direccion><Correo_Electronica>renymachado@gmail.com</Correo_Electronica><Fecha_De_Inclusion>1/2/2018</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                        <pedido id="Pe-6"> 
+                            <Fecha_De_Compra>22/3/2022</Fecha_De_Compra><Fecha_De_Entrega>23/2/2022</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-441561">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-7"> 
+                            <Fecha_De_Compra>3/3/2022</Fecha_De_Compra><Fecha_De_Entrega>3/3/2022</Fecha_De_Entrega><Precio_Total>110€</Precio_Total><Total_Factura>110€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-756213">
+                                    <Nombre>adidas Originals ZX 750</Nombre><Referencia>16544260_jdsportses/556787</Referencia><Precio>110€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+                        
+                    </Pedidos>
+                </Cliente>
+
+
+                <Cliente id="C-30067">
+    
+                    <Informacion>
+                        <Nombre>Javier</Nombre><Apellidos>Perez</Apellidos><Telefono>603791047</Telefono><Direccion>Calle del Pino/Nº7/Alcorcon</Direccion><Correo_Electronica>javierperez@gmail.com</Correo_Electronica><Fecha_De_Inclusion>7/4/2017</Fecha_De_Inclusion>
+                    </Informacion>
+
+                    <Pedidos>
+
+                       <pedido id="Pe-8"> 
+                            <Fecha_De_Compra>1/2/2022</Fecha_De_Compra><Fecha_De_Entrega>16/2/2022</Fecha_De_Entrega><Precio_Total>90€</Precio_Total><Total_Factura>90€</Total_Factura>
+                        
+                            <Productos>
+                                <Producto id="P-456254821">
+                                    <Nombre>adidas Originals Handball Spezial</Nombre><Referencia>17682078_jdsportses/627575</Referencia><Precio>90€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe
+                        -9"> 
+                            <Fecha_De_Compra>8/2/2022</Fecha_De_Compra><Fecha_De_Entrega>17/2/2022</Fecha_De_Entrega><Precio_Total>70€</Precio_Total><Total_Factura>70€</Total_Factura>
+
+                            <Productos>
+                                <Producto id="P-44618">
+                                    <Nombre>Nike camiseta Swoosh</Nombre><Referencia>18252732_jdsportses/619768</Referencia><Precio>35€</Precio><Cantidad>2</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                        <pedido id="Pe-10"> 
+                            <Fecha_De_Compra>9/3/2022</Fecha_De_Compra><Fecha_De_Entrega>18/2/2022</Fecha_De_Entrega><Precio_Total>150€</Precio_Total><Total_Factura>150€</Total_Factura>
+    
+                            <Productos>
+                                <Producto id="P-562581">
+                                    <Nombre>Airforce One</Nombre><Referencia>1267688_jdsportses/027536</Referencia><Precio>150€</Precio><Cantidad>1</Cantidad>
+                                </Producto>
+                            </Productos>
+                        </pedido>
+
+                    </Pedidos>
+                </Cliente>
+            </Clientes>
+        </Cuarto_Trimestre>
+    </trimestres>
+</Año_2022>
+</jd_sports>
 
